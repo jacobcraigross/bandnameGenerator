@@ -1,5 +1,5 @@
 /* IMPORT FONTS */
-@import url('https://fonts.googleapis.com/css?family=UnifrakturCook:700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
 
 * {
     padding: 0;
@@ -7,7 +7,7 @@
     box-sizing: border-box;
     --light: #f4f4f4;
     color: var(--light);
-    font-family: 'UnifrakturCook', cursive;
+    font-family: 'UnifrakturMaguntia', cursive;
 }
 
 .container {
