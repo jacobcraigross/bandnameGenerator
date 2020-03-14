@@ -24,12 +24,17 @@
     margin-top: 3rem;
     padding: 0 0.7rem;
     border-radius: 5px;
+    transition: padding .2s ease;
 }
 
 .button:hover {
     color: silver;
     border: 1px solid silver;
     cursor: pointer;
+}
+
+.button:active {
+    padding: .1rem 1rem;
 }
 
 .output {
