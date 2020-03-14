@@ -1,2 +1,5 @@
-console.log('hello times two');
+const button = document.querySelector('.button');
+const output = document.querySelector('.output');
+
+
 
