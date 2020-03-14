@@ -1,5 +1,5 @@
 /* IMPORT FONTS */
-@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 * {
     padding: 0;
@@ -7,7 +7,7 @@
     box-sizing: border-box;
     --light: #f4f4f4;
     color: var(--light);
-    font-family: 'UnifrakturMaguntia', cursive;
+    font-family: 'Bebas Neue', cursive;
 }
 
 .container {
